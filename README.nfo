@@ -1,0 +1,10 @@
+# rockhtml
+Simply rock with the powers of HTML, CSS and JavaScript coding.
+ 
+ Extract the zip file to your web server htdocs folder.
+ 
+ You can easily edit this project with tools such as any editor, a browser and with WAMP, XAMPP etc web servers. 
+ Just start your Apache and MySql module with your xampp or wamp control panel. Upload the db.sql file to your database included with it.
+ Edit dbconnect.php with your web server credentials and you are all set.
+ 
+ After starting your Apache and MySql module you can view your project.
